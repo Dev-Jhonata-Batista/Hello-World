@@ -1,17 +1,14 @@
-# Hello-World
+# Hello World
 
-Este é meu projeto inicial criado para praticar o uso do GitHub.
-
-## Objetivo
-
-Aprender a criar um repositório, adicionar arquivos e utilizar o GitHub para armazenar projetos.
+Projeto simples criado para praticar o uso do GitHub e o envio de arquivos para um repositório.
 
 ## Arquivos
 
-- HelloWorld.html - página simples exibindo uma mensagem "Hello World".
-- README.md - documentação do projeto.
+* `HelloWorld.html` — página com uma mensagem "Hello World".
+* `README.md` — informações básicas sobre o projeto.
 
 ## Tecnologias
 
-- HTML
-- GitHub
+* HTML
+* GitHub
+
